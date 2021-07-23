@@ -1,0 +1,231 @@
+[28-May-2021 11:53:22 America/New_York] PHP Notice:  Undefined index: fname in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 2
+[28-May-2021 11:53:22 America/New_York] PHP Notice:  Undefined index: lname in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 3
+[28-May-2021 11:53:22 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 4
+[28-May-2021 11:53:22 America/New_York] PHP Notice:  Undefined index: phone in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 5
+[28-May-2021 11:53:22 America/New_York] PHP Notice:  Undefined index: sid in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[28-May-2021 12:05:08 America/New_York] PHP Warning:  Use of undefined constant mysqli_num_rows - assumed 'mysqli_num_rows' (this will throw an Error in a future version of PHP) in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 9
+[28-May-2021 12:05:08 America/New_York] PHP Notice:  Undefined variable: pass in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 15
+[28-May-2021 12:06:05 America/New_York] PHP Warning:  Use of undefined constant mysqli_num_rows - assumed 'mysqli_num_rows' (this will throw an Error in a future version of PHP) in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 9
+[28-May-2021 12:06:05 America/New_York] PHP Notice:  Undefined variable: pass in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 15
+[28-May-2021 12:06:43 America/New_York] PHP Warning:  Use of undefined constant mysqli_num_rows - assumed 'mysqli_num_rows' (this will throw an Error in a future version of PHP) in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 9
+[28-May-2021 12:06:43 America/New_York] PHP Notice:  Undefined variable: pass in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 15
+[28-May-2021 12:08:05 America/New_York] PHP Warning:  Use of undefined constant mysqli_num_rows - assumed 'mysqli_num_rows' (this will throw an Error in a future version of PHP) in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 10
+[28-May-2021 12:08:06 America/New_York] PHP Warning:  Use of undefined constant mysqli_num_rows - assumed 'mysqli_num_rows' (this will throw an Error in a future version of PHP) in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 10
+[28-May-2021 12:09:48 America/New_York] PHP Warning:  Use of undefined constant mysqli_num_rows - assumed 'mysqli_num_rows' (this will throw an Error in a future version of PHP) in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 11
+[31-May-2021 14:20:58 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 10
+[31-May-2021 14:20:58 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 12
+[31-May-2021 14:21:14 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 10
+[31-May-2021 14:21:14 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 12
+[31-May-2021 14:21:18 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 10
+[31-May-2021 14:21:18 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 12
+[31-May-2021 14:21:19 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 10
+[31-May-2021 14:21:19 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 12
+[31-May-2021 14:21:20 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 10
+[31-May-2021 14:21:20 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 12
+[31-May-2021 14:22:44 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 10
+[31-May-2021 14:22:44 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 12
+[31-May-2021 14:24:52 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 10
+[31-May-2021 14:24:52 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 12
+[31-May-2021 14:25:05 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 10
+[31-May-2021 14:25:05 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 12
+[31-May-2021 14:25:05 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 36
+[02-Jun-2021 10:15:47 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:15:47 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:15:55 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:15:55 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:16:01 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:16:01 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:16:01 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 52
+[02-Jun-2021 10:17:13 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:17:13 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:17:54 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:17:54 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:18:30 America/New_York] PHP Warning:  Illegal string offset 'email' in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:18:30 America/New_York] PHP Warning:  Illegal string offset 'position' in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:18:33 America/New_York] PHP Warning:  Illegal string offset 'email' in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:18:33 America/New_York] PHP Warning:  Illegal string offset 'position' in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:18:35 America/New_York] PHP Warning:  Illegal string offset 'email' in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:18:35 America/New_York] PHP Warning:  Illegal string offset 'position' in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:19:22 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:19:22 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:19:22 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 36
+[02-Jun-2021 10:19:34 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:19:34 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:19:34 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 36
+[02-Jun-2021 10:19:35 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:19:35 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:19:35 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 36
+[02-Jun-2021 10:28:24 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 25
+[02-Jun-2021 10:28:24 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 27
+[02-Jun-2021 10:29:05 America/New_York] PHP Notice:  Undefined index: email in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 25
+[02-Jun-2021 10:29:05 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 27
+[02-Jun-2021 10:31:37 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 27
+[02-Jun-2021 10:32:25 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 27
+[02-Jun-2021 10:32:28 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 27
+[02-Jun-2021 10:34:52 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 27
+[02-Jun-2021 10:36:51 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:39:38 America/New_York] PHP Notice:  Undefined variable: data in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 24
+[02-Jun-2021 10:39:38 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:39:38 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:39:44 America/New_York] PHP Notice:  Undefined variable: data in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 24
+[02-Jun-2021 10:39:44 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:39:44 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:39:48 America/New_York] PHP Notice:  Undefined variable: data in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 24
+[02-Jun-2021 10:39:48 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:39:48 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:39:49 America/New_York] PHP Notice:  Undefined variable: data in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 24
+[02-Jun-2021 10:39:49 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:39:49 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:39:50 America/New_York] PHP Notice:  Undefined variable: data in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 24
+[02-Jun-2021 10:39:50 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:39:50 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:39:50 America/New_York] PHP Notice:  Undefined variable: data in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 24
+[02-Jun-2021 10:39:50 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:39:50 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:39:51 America/New_York] PHP Notice:  Undefined variable: data in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 24
+[02-Jun-2021 10:39:51 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 26
+[02-Jun-2021 10:39:51 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:40:13 America/New_York] PHP Notice:  Undefined index: position in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 28
+[02-Jun-2021 10:47:47 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 54
+[02-Jun-2021 10:52:02 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 70
+[02-Jun-2021 10:52:02 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[02-Jun-2021 10:52:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[02-Jun-2021 10:52:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[02-Jun-2021 10:52:02 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[02-Jun-2021 10:52:02 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 15
+[02-Jun-2021 10:52:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 15
+[03-Jun-2021 09:20:51 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 70
+[03-Jun-2021 09:20:51 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:20:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:20:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 09:20:51 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 09:20:51 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 15
+[03-Jun-2021 09:20:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 15
+[03-Jun-2021 09:23:39 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 70
+[03-Jun-2021 09:23:39 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:23:39 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:23:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 09:23:39 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 09:23:39 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 15
+[03-Jun-2021 09:23:39 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 15
+[03-Jun-2021 09:26:27 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 72
+[03-Jun-2021 09:26:27 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:26:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:26:27 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 09:26:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 09:26:27 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:26:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:29:11 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 72
+[03-Jun-2021 09:29:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:29:11 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:29:11 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 09:29:11 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 09:29:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:29:11 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:30:47 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 72
+[03-Jun-2021 09:30:47 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:30:47 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:30:47 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 09:30:47 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 09:30:47 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:30:47 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:31:53 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 72
+[03-Jun-2021 09:31:53 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:31:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:31:53 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 09:31:53 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 09:31:53 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 15
+[03-Jun-2021 09:31:53 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:31:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:32:51 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 72
+[03-Jun-2021 09:32:51 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:32:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:32:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 09:32:51 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 09:32:51 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:32:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:34:40 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 72
+[03-Jun-2021 09:34:40 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:34:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:34:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 09:34:40 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 09:34:40 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:34:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:36:04 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 71
+[03-Jun-2021 09:36:04 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:36:04 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:36:04 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 09:36:04 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 09:36:04 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 16
+[03-Jun-2021 09:36:04 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 16
+[03-Jun-2021 09:38:18 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 72
+[03-Jun-2021 09:38:18 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:38:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:38:18 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 09:38:18 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 09:38:18 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:38:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:51:49 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 72
+[03-Jun-2021 09:51:49 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:51:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:51:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 09:51:49 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 09:51:49 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 15
+[03-Jun-2021 09:51:49 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:51:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:59:14 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 72
+[03-Jun-2021 09:59:14 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:59:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 09:59:14 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 09:59:14 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 09:59:14 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 09:59:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 10:01:28 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 72
+[03-Jun-2021 10:01:28 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 10:01:28 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 10:01:28 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 10:01:28 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 10:01:28 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 10:01:28 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 10:03:05 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 72
+[03-Jun-2021 10:03:05 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 10:03:05 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 10:03:05 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 10:03:05 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 10:03:05 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 10:03:05 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 10:04:05 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 72
+[03-Jun-2021 10:04:05 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 10:04:05 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 6
+[03-Jun-2021 10:04:05 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 7
+[03-Jun-2021 10:04:05 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 8
+[03-Jun-2021 10:04:05 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 10:04:05 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 17
+[03-Jun-2021 10:09:11 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 72
+[03-Jun-2021 10:11:53 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 70
+[03-Jun-2021 10:13:53 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 70
+[03-Jun-2021 10:16:23 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 70
+[03-Jun-2021 10:17:28 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 70
+[04-Jun-2021 10:29:20 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 70
+[04-Jun-2021 10:29:42 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 70
+[04-Jun-2021 10:29:57 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 70
+[04-Jun-2021 10:30:25 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 70
+[04-Jun-2021 10:30:46 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 70
+[04-Jun-2021 10:44:21 America/New_York] PHP Notice:  Array to string conversion in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 70
+[09-Jun-2021 10:11:57 America/New_York] PHP Warning:  require(submit/generatePoints.php): failed to open stream: No such file or directory in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 90
+[09-Jun-2021 10:11:57 America/New_York] PHP Fatal error:  require(): Failed opening required 'submit/generatePoints.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 90
+[09-Jun-2021 10:12:53 America/New_York] PHP Warning:  require(submit/generatePoints.php): failed to open stream: No such file or directory in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 90
+[09-Jun-2021 10:12:53 America/New_York] PHP Fatal error:  require(): Failed opening required 'submit/generatePoints.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 90
+[09-Jun-2021 10:32:00 America/New_York] PHP Notice:  Undefined index: points in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 46
+[09-Jun-2021 10:32:00 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 48
+[09-Jun-2021 10:37:29 America/New_York] PHP Notice:  Undefined index: points in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 46
+[09-Jun-2021 10:37:29 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 49
+[09-Jun-2021 10:47:08 America/New_York] PHP Notice:  Undefined index: points in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 47
+[09-Jun-2021 10:47:08 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 50
+[09-Jun-2021 10:55:47 America/New_York] PHP Notice:  Undefined index: points in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 44
+[09-Jun-2021 11:04:52 America/New_York] PHP Notice:  Undefined variable: parent_data in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 46
+[09-Jun-2021 11:04:52 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 51
+[09-Jun-2021 11:09:18 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 51
+[09-Jun-2021 11:11:35 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 122
+[09-Jun-2021 11:13:43 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 122
+[09-Jun-2021 11:27:42 America/New_York] PHP Notice:  Undefined index: points in /home/beatkkau/mlm.beatexxmall.com/submit/signup.php on line 50

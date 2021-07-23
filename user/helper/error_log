@@ -1,0 +1,412 @@
+[11-Jun-2021 12:56:38 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:38 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:56:44 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:44 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:44 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:56:44 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:44 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:44 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:56:44 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:44 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:44 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:56:44 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:44 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:44 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:56:44 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:44 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:44 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:56:44 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:44 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:44 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:56:49 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:49 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:56:49 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:49 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:56:49 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:49 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:56:50 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:50 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:50 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:56:50 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:50 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:50 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:56:50 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:50 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:50 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:56:50 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:50 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:50 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:56:50 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:50 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:56:50 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:58:13 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:58:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:58:13 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:58:17 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:58:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:58:17 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:58:17 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:58:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:58:17 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:58:38 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:58:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:58:38 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 12:58:44 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:58:44 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 12:58:44 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:05:58 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:05:58 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:05:58 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:05:59 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:05:59 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:05:59 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:00 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:00 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:00 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:00 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:00 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:00 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:00 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:00 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:00 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:00 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:01 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:01 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:01 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:01 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:01 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:01 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:01 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:01 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:01 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:01 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:01 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:01 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:02 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:02 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:02 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:02 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:03 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:03 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:03 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:03 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:03 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:03 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:04 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:04 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:04 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:04 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:04 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:04 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:05 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:05 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:05 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:06 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:06 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:06 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:06 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:06 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:06 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:06 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:06 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:06 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:07 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:07 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:07 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:07 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:07 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:07 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:07 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:07 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:07 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:07 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:07 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:07 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:08 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:08 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:08 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:12 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:12 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:12 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:12 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:12 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:12 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:12 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:12 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:13 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:13 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:13 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:13 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:24 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:24 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:24 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:24 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:24 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:24 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:24 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:25 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:06:25 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:06:25 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:07:53 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:53 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:07:54 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:54 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:54 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:07:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:55 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:07:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:55 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:07:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:55 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:07:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:55 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:07:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:55 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:07:56 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:56 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:56 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:07:56 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:56 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:56 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:07:56 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:56 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:56 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:07:56 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:56 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:07:56 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:08:19 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:19 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:08:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:20 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:08:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:20 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:08:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:20 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:08:21 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:21 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:21 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:08:21 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:21 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:21 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:08:21 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:21 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:21 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:08:23 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:23 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:08:23 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:23 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:08:23 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:08:23 America/New_York] PHP Notice:  Undefined variable: result in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 15
+[11-Jun-2021 13:09:41 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:43 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:43 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:43 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:43 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:43 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:43 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:43 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:44 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[11-Jun-2021 13:09:44 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:05 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:05 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:06 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:06 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:07 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:07 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:07 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:07 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:07 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:07 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:08 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:08 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:08 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:08 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:08 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:08 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:08 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:08 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:08 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:08 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:08 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:08 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:09 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:09 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:09 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:09 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:09 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:09 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:10 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:10 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:10 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:10 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:10 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:10 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:10 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:10 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:10 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:10 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:11 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:11 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:11 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[12-Jun-2021 09:31:11 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/generatePoints.php on line 14
+[13-Jun-2021 04:50:01 America/New_York] PHP Notice:  Undefined variable: pass in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 04:50:14 America/New_York] PHP Notice:  Undefined variable: pass in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 04:50:15 America/New_York] PHP Notice:  Undefined variable: pass in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 04:50:15 America/New_York] PHP Notice:  Undefined variable: pass in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 04:50:15 America/New_York] PHP Notice:  Undefined variable: pass in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 04:50:16 America/New_York] PHP Notice:  Undefined variable: pass in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 04:50:16 America/New_York] PHP Notice:  Undefined variable: pass in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 04:57:13 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 04:57:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 04:57:13 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 04:57:23 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 04:57:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 04:57:23 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 04:57:30 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 04:57:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 04:57:30 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 04:58:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 04:58:11 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 04:58:11 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 04:58:50 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 04:58:50 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 04:58:50 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 04:59:00 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 04:59:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 04:59:00 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 04:59:07 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 04:59:07 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 04:59:07 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 05:00:48 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 05:00:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 05:00:48 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 05:01:14 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 05:01:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 05:01:14 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 05:01:19 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 05:01:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 05:01:19 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[13-Jun-2021 05:01:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 05:01:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 6
+[13-Jun-2021 05:01:20 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/beatkkau/mlm.beatexxmall.com/user/helper/changepass.php on line 7
+[14-Jun-2021 12:22:50 Asia/Karachi] PHP Notice:  Undefined variable: amt in /home/beatkkau/mlm.beatexxmall.com/user/helper/buypkg.php on line 36
+[14-Jun-2021 12:22:50 Asia/Karachi] PHP Notice:  Undefined variable: amt in /home/beatkkau/mlm.beatexxmall.com/user/helper/buypkg.php on line 36
+[14-Jun-2021 12:22:50 Asia/Karachi] PHP Notice:  Undefined variable: amt in /home/beatkkau/mlm.beatexxmall.com/user/helper/buypkg.php on line 36
+[14-Jun-2021 12:22:50 Asia/Karachi] PHP Notice:  Undefined variable: amt in /home/beatkkau/mlm.beatexxmall.com/user/helper/buypkg.php on line 36
+[14-Jun-2021 12:22:50 Asia/Karachi] PHP Notice:  Undefined variable: amt in /home/beatkkau/mlm.beatexxmall.com/user/helper/buypkg.php on line 36
+[14-Jun-2021 20:53:37 Asia/Karachi] PHP Notice:  Undefined variable: amt in /home/beatkkau/mlm.beatexxmall.com/user/helper/buypkg.php on line 38
+[14-Jun-2021 20:53:37 Asia/Karachi] PHP Notice:  Undefined variable: mmehboob1000@gmail.com in /home/beatkkau/mlm.beatexxmall.com/user/helper/buypkg.php on line 39
+[14-Jun-2021 21:01:43 Asia/Karachi] PHP Notice:  Undefined variable: amt in /home/beatkkau/mlm.beatexxmall.com/user/helper/buypkg.php on line 39
+[14-Jun-2021 21:01:43 Asia/Karachi] PHP Notice:  Undefined variable: mmehboob1000@gmail.com in /home/beatkkau/mlm.beatexxmall.com/user/helper/buypkg.php on line 40
+[14-Jun-2021 21:03:20 Asia/Karachi] PHP Notice:  Undefined variable: amt in /home/beatkkau/mlm.beatexxmall.com/user/helper/buypkg.php on line 38
+[14-Jun-2021 21:03:20 Asia/Karachi] PHP Notice:  Undefined variable: amt in /home/beatkkau/mlm.beatexxmall.com/user/helper/buypkg.php on line 38
+[18-Jun-2021 16:14:06 Asia/Karachi] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 30
+[18-Jun-2021 16:14:06 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:14:06 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:14:06 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:14:06 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:14:06 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 67
+[18-Jun-2021 16:14:06 Asia/Karachi] PHP Notice:  A non well formed numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 67
+[18-Jun-2021 16:16:44 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:16:44 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:16:44 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:16:44 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:16:44 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 67
+[18-Jun-2021 16:16:44 Asia/Karachi] PHP Notice:  A non well formed numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 67
+[18-Jun-2021 16:18:57 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:18:57 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:18:57 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:18:57 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:18:57 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 67
+[18-Jun-2021 16:18:57 Asia/Karachi] PHP Notice:  A non well formed numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 67
+[18-Jun-2021 16:28:11 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:28:11 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:28:11 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:28:11 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[18-Jun-2021 16:28:11 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 67
+[18-Jun-2021 16:28:11 Asia/Karachi] PHP Notice:  A non well formed numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 67
+[19-Jun-2021 16:39:35 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[19-Jun-2021 16:39:35 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 65
+[19-Jun-2021 16:39:35 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[19-Jun-2021 16:39:35 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 65
+[19-Jun-2021 16:39:35 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[19-Jun-2021 16:39:35 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 65
+[19-Jun-2021 16:39:35 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 64
+[19-Jun-2021 16:39:35 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 65
+[19-Jun-2021 16:39:35 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 68
+[19-Jun-2021 16:39:35 Asia/Karachi] PHP Notice:  A non well formed numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 68
+[19-Jun-2021 16:43:20 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 65
+[19-Jun-2021 16:43:20 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 66
+[19-Jun-2021 16:43:20 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 65
+[19-Jun-2021 16:43:20 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 66
+[19-Jun-2021 16:43:20 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 65
+[19-Jun-2021 16:43:20 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 66
+[19-Jun-2021 16:43:20 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 65
+[19-Jun-2021 16:43:20 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 66
+[19-Jun-2021 16:43:20 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 69
+[19-Jun-2021 16:43:20 Asia/Karachi] PHP Notice:  A non well formed numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 69
+[19-Jun-2021 16:51:48 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 70
+[19-Jun-2021 16:51:48 Asia/Karachi] PHP Notice:  A non well formed numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 70
+[19-Jun-2021 16:55:53 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 70
+[19-Jun-2021 16:55:53 Asia/Karachi] PHP Notice:  A non well formed numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 70
+[19-Jun-2021 17:01:31 Asia/Karachi] PHP Warning:  A non-numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 70
+[19-Jun-2021 17:01:31 Asia/Karachi] PHP Notice:  A non well formed numeric value encountered in /home/beatkkau/mlm.beatexxmall.com/user/helper/collect_rio.php on line 70
