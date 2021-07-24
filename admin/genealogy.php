@@ -1,7 +1,7 @@
 
 <?php
 session_start();
- include "../../includes/db_config.php";
+ include "../includes/db_config.php";
  
 function get_username($email , $conn)
 {

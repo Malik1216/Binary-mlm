@@ -1,14 +1,13 @@
 -- phpMyAdmin SQL Dump
--- version 4.9.7
+-- version 5.0.2
 -- https://www.phpmyadmin.net/
 --
--- Host: localhost:3306
--- Generation Time: Jul 23, 2021 at 03:43 AM
--- Server version: 10.3.28-MariaDB-log-cll-lve
--- PHP Version: 7.3.28
+-- Host: 127.0.0.1
+-- Generation Time: Jul 24, 2021 at 04:37 PM
+-- Server version: 10.4.14-MariaDB
+-- PHP Version: 7.2.33
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET AUTOCOMMIT = 0;
 START TRANSACTION;
 SET time_zone = "+00:00";
 
@@ -19,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `beatkkau_mlm`
+-- Database: `mlm`
 --
 
 -- --------------------------------------------------------
@@ -186,7 +185,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `fname`, `lname`, `email`, `pass`, `phone`, `sid`, `left_Sid`, `right_Sid`, `uname`, `city`, `country`) VALUES
-(11, 'Mehboob', 'Hassan', 'mmehboob1000@gmail.com', '202cb962ac59075b964b07152d234b70', '03312312121', '2147483647', 'bW1laGJvb2IxMDAwQGdtYWlsLmNvbSxsZWZ0', 'bW1laGJvb2IxMDAwQGdtYWlsLmNvbSxyaWdodA==', 'mehboob', 'Lahore', 'Pakistan'),
+(11, 'Mehboob', 'Hassan', 'mmehboob1000@gmail.com', '202cb962ac59075b964b07152d234b70', '03312312121', '1', 'bW1laGJvb2IxMDAwQGdtYWlsLmNvbSxsZWZ0', 'bW1laGJvb2IxMDAwQGdtYWlsLmNvbSxyaWdodA==', 'mehboob', 'Lahore', 'Pakistan'),
 (77, 'Mehboob', 'Hassan', 'mmehboob100ee0@gmail.com', '202cb962ac59075b964b07152d234b70', '03404305100', 'bW1laGJvb2IxMDAwQGdtYWlsLmNvbSxsZWZ0', 'bW1laGJvb2IxMDBlZTBAZ21haWwuY29tLGxlZnQ=', 'bW1laGJvb2IxMDBlZTBAZ21haWwuY29tLHJpZ2h0', 'Mark', 'Lahore', 'Pakistan'),
 (71, 'Mehboob', 'Hassan', 'mmehboob10@gmaill.com', '202cb962ac59075b964b07152d234b70', '03312312312', 'bW1laGJvb2IxMDAwQGdtYWlsLmNvbSxsZWZ0', 'bW1laGJvb2IxMEBnbWFpbGwuY29tLGxlZnQ=', 'bW1laGJvb2IxMEBnbWFpbGwuY29tLHJpZ2h0', 'mehboob22', 'Lahore', 'Pakistan'),
 (72, 'Mehboob', 'Hassan', 'mmehboob1@gmaill.com', '202cb962ac59075b964b07152d234b70', '03312312312', 'bW1laGJvb2IxMDAwQGdtYWlsLmNvbSxsZWZ0', 'bW1laGJvb2IxQGdtYWlsbC5jb20sbGVmdA==', 'bW1laGJvb2IxQGdtYWlsbC5jb20scmlnaHQ=', 'mehboob222', 'Lahore', 'Pakistan'),

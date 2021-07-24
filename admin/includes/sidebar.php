@@ -38,65 +38,34 @@
                     <i class="nav-icon fa fa-tachometer-alt"></i>
                     Dashboard
                   </a>
-                </li>
-                <li class="nav-item">
-                  <a href="e-wallet" class="nav-link">
-                    <i class="fa fa-money"></i>
-                    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-Wallet</p><i class="fa fa-angle-right right"></i>
-                    
-                  </a>
-                  
-                  <ul class="nav nav-treeview">
-                    <li class="nav-item">
-                        <a href="e-wallet" class="nav-link">
-                          <i class="fa fa-money"></i>
-                          <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-Wallet</p>
-                          
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                      <a
-                        href=""
-                        class="nav-link"
-                      >
-                        <i class="fa fa-circle nav-icon"></i>
-                        <p>Deposit</p>
-                      </a>
-                    </li>
-                
-                    <li class="nav-item">
-                      <a href="" class="nav-link">
-                        <i class="fa fa-circle nav-icon"></i>
-                        <p>Withdrawal Request</p>
-                      </a>
-                    </li>
-                 
-                
-                  </ul>
-                </li>
-                
+                </li>  
                 <li class="nav-item has-treeview">
                   <a href="#" class="nav-link">
                     <i class="nav-icon fa fa-user"></i>
                     <p>
-                      Profile Manage
+                      Manage Users
                       <i class="fa fa-angle-right right"></i>
                     </p>
                   </a>
                   <ul class="nav nav-treeview">
                     <li class="nav-item">
-                      <a href="profile" class="nav-link">
+                      <a href="users" class="nav-link">
                         <i class="fa fa-circle nav-icon"></i>
-                        <p>My Profile</p>
+                        <p>View All Users</p>
+                      </a>
+                    </li>
+                    <!-- <li class="nav-item">
+                      <a href="change-password" class="nav-link">
+                        <i class="fa fa-circle nav-icon"></i>
+                        <p>Users With Package</p>
                       </a>
                     </li>
                     <li class="nav-item">
                       <a href="change-password" class="nav-link">
                         <i class="fa fa-circle nav-icon"></i>
-                        <p>Change Password</p>
+                        <p>Users Without Package</p>
                       </a>
-                    </li>
-                    
+                    </li> -->
                    
                   </ul>
                 </li>
