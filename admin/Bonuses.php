@@ -1,38 +1,12 @@
 <!DOCTYPE html>
 <?php 
 session_start();
-function countNodes( $parent , $conn , $count=0   )
-{
-    
-    $left = mysqli_query($conn , "SELECT * FROM tree WHERE parent = '$parent' and positon=1");
-    $right = mysqli_query($conn , "SELECT * FROM tree WHERE parent = '$parent' and positon=2");
-    $row_left = mysqli_fetch_array($left);
-    $row_right = mysqli_fetch_array($right);
-    if (mysqli_num_rows($left)>0 or mysqli_num_rows($right)>0)
-    {
-        if (mysqli_num_rows($left)>0)
-        {
-           $count +=1;
-            $count = countNodes(  $row_left['node'] , $conn , $count  );
-          
-        }
-       
-    
-        if (mysqli_num_rows($right)>0)
-        {
-            $count +=1;
-            $count = countNodes(  $row_right['node'] , $conn , $count  );
-            
-        }
-    }
-     return $count;
-}
 ?>
 <html>
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Manage Users</title>
+    <title>User Rewards</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <script src="https://use.fontawesome.com/e363e29cbd.js"></script>
    
@@ -160,14 +134,14 @@ function countNodes( $parent , $conn , $count=0   )
             <div class="container-fluid">
               <div class="row mb-2">
                 <div class="col-sm-6">
-                  <h1 class="m-0 text-dark">Manage Users</h1>
+                  <h1 class="m-0 text-dark">User Rewards</h1>
                 </div>
                 <div class="col-sm-6">
                   <ol class="breadcrumb float-sm-right">
                     <li class="breadcrumb-item">
-                      <a href="dashboard.tml">Home</a>
+                      <a href="dashboard">Home</a>
                     </li>
-                    <li class="breadcrumb-item active">Users</li>
+                    <li class="breadcrumb-item active">User Rewards</li>
                   </ol>
                 </div>
               </div>
@@ -176,91 +150,72 @@ function countNodes( $parent , $conn , $count=0   )
           <section class="content">
             <div class="container-fluid">
               <div class="row">
-                <div class="col-lg-4 col-6">
-                  <div class="small-box bg-secondry shadow_block">
+              <div class="col-lg-4 col-6">
+                  <div class="small-box bg-secondry shadow_block" >
                     <div class="inner">
                       <h3> <?php
-                      $result = mysqli_query($conn , "SELECT id FROM users");
-                      $total= mysqli_num_rows($result);
-                      echo mysqli_num_rows($result); ?></h3>
-                      <p>Total Users</p>
+                      $result = mysqli_query($conn , "SELECT SUM(direct_bonus) FROM wallet");
+                      echo mysqli_fetch_array($result)['SUM(direct_bonus)']; ?>$</h3>
+                      <p>Total Driect Bonus</p>
                     </div>
                     <div class="icon">
-                       <i class="fa fa-user" aria-hidden="true"></i>
+                       <i class="fa fa-money" ></i>
                     </div>
-                  </div>
-                </div>
-                
-                <div class="col-lg-4 col-6">
-                  <div class="small-box bg-secondry shadow_block">
-                    <div class="inner">
-                      <h3> <?php
-                      $result = mysqli_query($conn , "SELECT DISTINCT email FROM pkgs");
-                      $with_pkg = mysqli_num_rows($result);
-                      echo mysqli_num_rows($result); ?></h3>
-                      <p>Users With Active Package</p>
-                    </div>
-                    <div class="icon">
-                       <i class="fa fa-user" ></i>
-                    </div>
+                   
                   </div>
                 </div>
                 <div class="col-lg-4 col-6">
-                  <div class="small-box bg-secondry shadow_block">
+                  <div class="small-box bg-secondry shadow_block" >
                     <div class="inner">
                       <h3> <?php
-                        echo intval($total)-intval($with_pkg);
-                       ?></h3>
-                      <p>Users Without Package</p>
+                      $result = mysqli_query($conn , "SELECT SUM(pair_bonus) FROM wallet");
+                      echo mysqli_fetch_array($result)['SUM(pair_bonus)']; ?>$</h3>
+                      <p>Total Pair Bonus</p>
                     </div>
                     <div class="icon">
-                       <i class="fa fa-user" ></i>
+                       <i class="fa fa-money" ></i>
                     </div>
+                   
+                  </div>
+                </div>
+                <div class="col-lg-4 col-6">
+                  <div class="small-box bg-secondry shadow_block"  >
+                    <div class="inner">
+                      <h3> <?php
+                      $result = mysqli_query($conn , "SELECT SUM(rio) FROM wallet");
+                      echo mysqli_fetch_array($result)['SUM(rio)']; ?>$</h3>
+                      <p>Total Rio Bonus</p>
+                    </div>
+                    <div class="icon">
+                       <i class="fa fa-money" ></i>
+                    </div>
+                   
                   </div>
                 </div>
                 <div class="col-lg-12 col-12">
                   <div class="small-box bg-secondry shadow_block" style = " height: auto; width: 100%;" >
                     <div class="inner">
                         <h4 style="mx-auto" >
-                        <?php
-                        if (!isset($_GET['dat']))
-                        {
-                            echo "All Users" ;
-                        }
-                        else
-                        {
-                            if ($_GET['dat']==1 )
-                            {
-                                echo "Users With Package" ;
-                            }
-                            else
-                            {
-                                echo "Users Without Package" ;
-                            }
-                        }
-                        
-                        ?>
+                        User Rewards
                     </h4>
                       <table class="table" style="width:100%;"  id="Table_ID" >
                           <thead>
                               <tr>
                                   <th  >#</th>
-                                  <th  >username</th>
+                                  <th >username</th>
                                   <th >email</th>
                                   <th >Full name</th>
-                                  <th >Packages</th>
-                                  <th >phone</th>
-                                  <th> address</th>
-                                  <th >Sponser</th>
-                                  <th >Tree</th>
+                                  <th >Total Rio</th>
+                                  <th >Total Drict Bonus</th>  
+                                  <th >Total Pair Bonus</th>
+                                  <th >Wallet amount</th>
                              </tr>
                           </thead>
                           <tbody>
                               <?php
-                               if (!isset($_GET['dat']))
-                               {
-                                    $result = mysqli_query($conn , "SELECT * FROM users");
-                               }
+                            
+                            $result = mysqli_query($conn , "SELECT * FROM users");
+                              
                                 $cnt = 0 ;
                                 while( $row = mysqli_fetch_array($result) )
                                 {
@@ -272,57 +227,17 @@ function countNodes( $parent , $conn , $count=0   )
                                   <td><?php echo $row['uname'] ?></td>
                                   <td  ><?php echo $row['email'] ?></td>
                                   <td  ><?php echo $row['fname'] . ' ' .$row['lname'] ?></td>
-                                  <td  ><?php 
-                                  $email =  $row['email'];
-                                  $result2 = mysqli_query($conn , "SELECT * FROM pkgs Where email = '$email'");
-                                  $pkgs = mysqli_num_rows($result2);
-                                  $temp = " ";
-                                  while ($row2 = mysqli_fetch_array($result2))
-                                  {
-                                        $temp = $temp .  $row2["pkg_name"] . " ";
-                                  }
-                                   
-                                  if ($pkgs==0)
-                                  {
-                                      echo "No Package" ;
-                                  }
-                                  else
-                                  {
-                                      ?>
-                                      <button  style=" height: 20px; font-size: 12px; padding: 0px 5px 0px 5px; " class="btn btn-success" 
-                                      onclick = 'alert("<?php echo $temp ?>");'
-                                      > 
-                                          View all Packages
-                                      </button>
-                                      <?php
-                                  }
-                                  ?></td>
-                                  <td style="width:10%" ><?php echo $row['phone'] ?></td>
-                                  <td style="width:10%" ><?php echo $row['city'].','.$row['country'] ?></td>
-                                  <td><?php
-                                  if ( $row['sid']==1 )
-                                  {
-                                        echo "Root user" ;
-                                  }
-                                  else
-                                  {
-                                    $sdata = base64_decode( $row['sid']);
-                                    $sid = explode(',', $sdata);
-                                    $semail = $sid[0];
-                                     $email = $semail;
-                                     $result2 = mysqli_query($conn , "SELECT fname , lname FROM users WHERE email = '$email'");
-                                     $user_data = mysqli_fetch_array($result2);
-                                     echo $user_data['fname']. ' ' . $user_data['lname']; 
-                                  }
-                                     ?>
-                                
-                                  </td>
                                   <td>
-                                  <div class="btn-group">
-                                    <a type="button" href="genealogy?id=<?php echo $row['email'] ?>"   style=" height: 20px; font-size: 12px; padding: 0px 5px 0px 5px; " class="btn btn-primary"  >View Tree </a>
-                                    <a type="button" href="history?dat=<?php echo $row['email'] ?>"   style=" height: 20px; font-size: 12px; padding: 0px 5px 0px 5px; " class="btn btn-success"  >View History </a>
-                                </div>
-                                </td>
+                                      <?php
+                                      $email = $row['email'];
+                                      $result2 = mysqli_query($conn , "SELECT * FROM wallet Where email = '$email'");
+                                      $wallet_data = mysqli_fetch_array($result2); 
+                                      echo $wallet_data['rio'];
+                                      ?>$
+                                  </td>
+                                    <td> <?php echo $wallet_data['direct_bonus']; ?> </td>
+                                    <td> <?php echo $wallet_data['pair_bonus']; ?> </td>
+                                    <td> <?php echo $wallet_data['amt']; ?> </td>
                               </tr>
                               <?php
                                 }

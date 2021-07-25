@@ -54,6 +54,12 @@
                         <p>View All Users</p>
                       </a>
                     </li>
+                    <li class="nav-item">
+                      <a href="Bonuses" class="nav-link">
+                        <i class="fa fa-circle nav-icon"></i>
+                        <p>View Users Rewards</p>
+                      </a>
+                    </li>
                     <!-- <li class="nav-item">
                       <a href="change-password" class="nav-link">
                         <i class="fa fa-circle nav-icon"></i>
@@ -70,29 +76,11 @@
                   </ul>
                 </li>
 
-                <li class="nav-item has-treeview">
-                  <a href="#" class="nav-link">
-                    <i class="nav-icon fa fa-copy"></i>
-                    <p>
-                      Buy Package
-                      <i class="fa fa-angle-right right"></i>
-                    </p>
+                <li class="nav-item">
+                  <a href="history" class="nav-link">
+                    <i class="nav-icon fa fa-history"></i>
+                    <p>History</p>
                   </a>
-                  <ul class="nav nav-treeview">
-                    <li class="nav-item">
-                      <a href="upgrade-with-invest" class="nav-link">
-                        <i class="fa fa-circle nav-icon"></i>
-                        <p>Buy Package</p>
-                      </a>
-                    </li>
-                    <li class="nav-item">
-                      <a href="" class="nav-link">
-                        <i class="fa fa-circle nav-icon"></i>
-                        <p>Buy Package History</p>
-                      </a>
-                    </li>
-                   
-                  </ul>
                 </li>
                 <!--<li class="nav-item has-treeview">-->
                 <!--  <a href="#" class="nav-link">-->
