@@ -205,6 +205,8 @@ session_start();
                                   <th >username</th>
                                   <th >email</th>
                                   <th >Full name</th>
+                                  <th >Left Points</th>
+                                  <th >Right Points</th>
                                   <th >Total Rio</th>
                                   <th >Total Drict Bonus</th>  
                                   <th >Total Pair Bonus</th>
@@ -220,18 +222,19 @@ session_start();
                                 while( $row = mysqli_fetch_array($result) )
                                 {
                                     $cnt++;
-            
+                                    $email = $row['email'];
+                                      $result2 = mysqli_query($conn , "SELECT * FROM wallet Where email = '$email'");
+                                      $wallet_data = mysqli_fetch_array($result2); 
                               ?>
                               <tr>
                                   <td ><?php echo $cnt ?></td>
                                   <td><?php echo $row['uname'] ?></td>
                                   <td  ><?php echo $row['email'] ?></td>
                                   <td  ><?php echo $row['fname'] . ' ' .$row['lname'] ?></td>
+                                  <td  ><?php echo $wallet_data['points_left'] ?></td>
+                                  <td  ><?php echo $wallet_data['points_right'] ?></td>
                                   <td>
                                       <?php
-                                      $email = $row['email'];
-                                      $result2 = mysqli_query($conn , "SELECT * FROM wallet Where email = '$email'");
-                                      $wallet_data = mysqli_fetch_array($result2); 
                                       echo $wallet_data['rio'];
                                       ?>$
                                   </td>
